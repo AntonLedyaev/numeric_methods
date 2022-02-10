@@ -23,11 +23,11 @@
 
 #### Функция
 
-![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/plot.png)
+![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/func_plot.png)
 
 #### Функция на отрезке
 
-![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/plot_short.png)
+![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/func_plot_short.png)
 
 #### Полином Лагранжа
 
