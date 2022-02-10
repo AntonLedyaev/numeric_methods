@@ -2,7 +2,7 @@
 
 СПбГУ ПМ-ПУ 5 семестр, численные методы.
 
-## Задание 1. 
+## Задание 1. Интерполяция. 
 
 ![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/func.jpg)
 
@@ -39,4 +39,27 @@
 
 #### Абсолютная погрешность
 
-![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/error.jpg)
+![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/error.png)
+
+## Задание 2. Аппроксимация. 
+
+1. Для указанной функции f(x) по методу наименьших квадратов построить алгебраический полином наилучшего среднеквадратичного приближения третьей степени по пяти узлам
+{xi} и значениям функции {f(xi
+)} в этих узлах.
+2. Для той же функции на том же отрезке построить алгебраический полином наилучшего приближения в пространстве L2
+третьей степени с использованием полиномов Лежандра.
+3. Построить графики исходной функции и двух построенных
+полиномов.
+
+#### Функция
+
+![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/func_plot.png)
+
+#### Результат аппроксимации.
+
+![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/approx.png)
+
+#### Результат аппроксимации с использованием полиномов Лежандра.
+
+![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/approx_l.png)
+
