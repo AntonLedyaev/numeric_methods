@@ -2,7 +2,7 @@
 
 СПбГУ ПМ-ПУ 5 семестр, численные методы.
 
-## Задание 2. Интерполяция. 
+## Задание 1. Интерполяция. 
 
 ![Image alt](https://github.com/AntonLedyaev/numeric_methods/raw/main/img/func.jpg)
 
